@@ -1,0 +1,14 @@
+[
+    {"type": "square", "center_x": 0, "center_y": 0, "side": 2, "color": "black"},
+    {"type": "pie", "center_x": 0, "center_y": 0, "radius": 250, "arg_degrees": 160, "color": "yellow"},
+    {"type": "circle", "center_x": 0, "center_y": 0, "radius": 50, "color": "blue"},
+    {"type": "circle", "center_x": 0, "center_y": 0, "radius": 100, "color": "red"},
+    {"type": "rectangle", "center_x": 0, "center_y": 0, "height": 150, "width": 300, "color": "green"},
+    {"type": "square", "center_x": 0, "center_y": 0, "side": 100, "color": "red"},
+    {"type": "pie", "center_x": 0, "center_y": 0, "radius": 75, "arg_degrees": 90, "color": "black"},
+    {"type": "rectangle", "center_x": 0, "center_y": 0, "height": 300, "width": 150, "color": "purple"},
+    {"type": "polygon", "center_x": 0, "center_y": 0, "radius": 250, "sides": 7, "color": "pink"},
+    {"type": "square", "center_x": 0, "center_y": 0, "side": 200, "color": "blue"},
+    {"type": "polygon", "center_x": 0, "center_y": 0, "radius": 150, "sides": 11, "color": "brown"}
+]
+

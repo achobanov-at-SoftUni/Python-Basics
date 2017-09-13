@@ -1,0 +1,6 @@
+text = input('Въведете текст: ')
+separator = input('Въведете разделител: ')
+index = text.find(separator)
+len = len(separator)
+print(index)
+print(text[index + len:])
